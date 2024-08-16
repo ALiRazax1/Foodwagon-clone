@@ -12,7 +12,7 @@
   width: 16px;
   height: 16px;
 }
-.login-btn {
+.login-btn {flex-shrink: 0;
   color: #ffb30e;
   font-weight: 700;
   background-color: white;
