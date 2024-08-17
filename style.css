@@ -17,6 +17,7 @@
   font-weight: 700;
   background-color: white;
   height: 42px;
+  margin-left: 20px;
 }
 .login-btn:hover {
   color: #ffb30e;
@@ -114,7 +115,7 @@ padding-top: 50px;}
 .popular-item>.row .text-icon{width: 12px;height: 16px;color: #ffb71c;vertical-align:-2px;}
 .popular-item> .row .text {color: #ffb71c;font-weight: 500; padding-left: 5px;}
 .popular-item>.row .price {font-weight: 700;}
-.popular-item .btn {background-color: #f17228;color: white;font-weight: 700;}
+.popular-item .btn {background-color: #f17228;color: white;font-weight: 700;margin-top: 10px;}
 
 /* featured items */
 .featured-items{margin-top: 170px;}
@@ -215,7 +216,7 @@ background-position: center;}
 .footer  .cities-name { display: flex; justify-content: center; flex-wrap: wrap; }
 .footer .cities-name div {width:20%;}
 .popular-item .row { display: flex; justify-content: center; flex-wrap: wrap; }
-  .popular-item .row .a{width:20%;}
+  .popular-item .row .a{width:10%;}
 }
 
 
